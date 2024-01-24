@@ -5,6 +5,7 @@ public class Main {
         System.out.println(biggestPalindom);
     }
 
+
     private static int najdiNejvetsiPalindrom() {
         int biggestPalindrom = 0;
 
